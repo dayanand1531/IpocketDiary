@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+android:id="@+id/LinearLayout01" 
+android:background="@drawable/password" 
+android:layout_height="fill_parent" 
+android:layout_width="fill_parent" 
+android:padding="20dip" 
+>
+
+	<RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginTop="40dip">
+
+		<TextView
+			android:id="@+id/label"
+			style="@style/textview_style"
+			android:layout_width="145dp"
+			android:layout_height="60dp"
+			android:text="@string/enter_password" />
+
+		<EditText
+			android:id="@+id/password"
+			android:layout_width="160dip"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/label"
+			android:layout_marginTop="-29dp"
+			android:background="@android:drawable/editbox_background"
+			android:inputType="textPassword"
+			android:maxLines="1"
+			android:password="true"
+			android:singleLine="true" />
+
+		<Button
+			android:id="@+id/ok"
+			android:layout_width="161dp"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/password"
+			android:layout_gravity="left"
+			android:layout_marginTop="23dp"
+			android:soundEffectsEnabled="true"
+			android:text="@string/button_ok" />
+
+		<Button
+			android:id="@+id/btnChangePassword"
+			style="@style/textview_btnstyle"
+			android:layout_width="140dip"
+			android:layout_height="35dip"
+			android:layout_below="@+id/ok"
+			android:layout_marginLeft="5dip"
+			android:layout_marginTop="28dp"
+			android:background="@drawable/textviewbutton"
+			android:text="@string/button_ChangePassword" />
+	</RelativeLayout>
+</LinearLayout>

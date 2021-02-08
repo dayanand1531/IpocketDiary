@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android" 
+android:id="@+id/Help" 
+android:padding="20dip"
+android:background="@drawable/help">
+<ScrollView android:id="@+id/ScrollView01" 
+android:scrollbarSize="5dip"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content">
+
+<LinearLayout android:id="@+id/llHelp" 
+android:layout_below="@+id/TextView01" 
+android:scrollbars="vertical" 
+android:orientation="vertical" 
+android:scrollbarAlwaysDrawVerticalTrack="true"
+android:layout_width="fill_parent" 
+android:layout_height="600px">
+
+<TextView android:id="@+id/TextView01" 
+android:layout_width="fill_parent" 
+android:gravity="center_vertical"
+android:layout_height="fill_parent" 
+android:text="@string/help_text" 
+android:textAppearance="?android:attr/textAppearanceMedium"
+android:textColor="@color/helptextcolor">
+</TextView>
+</LinearLayout>
+</ScrollView>
+</RelativeLayout>

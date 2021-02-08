@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CustomItemType">
+        <item>Numeric</item>
+        <item>Text</item>
+        <item>Text Box</item>
+        <item>Date Format</item>
+    </string-array>
+    <color name="helptextcolor">#ffffff</color>
+    <string name="app_name">Pocket Diary</string>
+    <string name="button_ChangePassword">Change Password</string>
+    <string name="button_color">#000000</string>
+    <string name="button_customitem">Custom Item</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_update">Update</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="enter_password">Enter Password:</string>
+    <string name="help_text">iPocket Diary: Saves your personal information in different folders.\n\n+Add new folder: Click on a row to view the folder details:\nBack:Click on back to move to previous view.\n\nEdit: Allows user to edit the folder details.\n\nFolder Image: User can select/change the folder image.\n\nFolder Name: Display folder name.\n\n+Add New Item: User can enter a new item in the folder.\n\nDelete: User can delete the current Folder.</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_start">Start</string>
+    <string name="new_password">New Password:</string>
+    <string name="old_password">Old Password:</string>
+    <string name="pass_help_text">Please input password to use the application. If you are running the application for the first time then you need to set the password.\n\nOnce saved, you can change the password any time.\n\nPlease note if you forgot your password then there is no way to get that back.\n\nYou can select the type of keyboard either numeric or alphabetic to enter password. </string>
+    <string name="password">Password:</string>
+    <string name="password_confirm_label">Confirm password:</string>
+    <string name="password_label">Password:</string>
+    <string name="password_text"/>
+    <string name="re_type">Re-Type</string>
+    <string name="save">Save</string>
+    <string name="spinner_Select_prompt">Select Type</string>
+    <string name="title_authentication">Authentication</string>
+    <string name="title_changepassword">Change Password</string>
+    <string name="title_setpassword">Diary Password</string>
+    <style name="Theme.NoBackground" parent="android:Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="button_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+</style>
+    <style name="textview_btnstyle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+</style>
+    <style name="textview_style">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+</style>
+</resources>

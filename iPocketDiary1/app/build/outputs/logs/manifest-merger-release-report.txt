@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:3:7-53
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:6:7-10:56
+	android:largeScreens
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:7:3-30
+	android:smallScreens
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:9:3-30
+	android:normalScreens
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:8:3-31
+	android:resizeable
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:10:29-54
+	android:anyDensity
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:10:3-28
+application
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:11:5-32:15
+	android:label
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:11:48-80
+	android:icon
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:11:18-47
+activity#com.softwaredepotonline.iPocketDiary.aPocketDiary
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:12:48-84
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:12:85-117
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.softwaredepotonline.iPocketDiary.Help
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:19:1-113
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:19:32-68
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:19:69-101
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:19:11-31
+activity#com.softwaredepotonline.iPocketDiary.LoginView
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:20:1-118
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:20:37-73
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:20:74-106
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:20:11-36
+activity#com.softwaredepotonline.iPocketDiary.Authentication
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:21:1-123
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:21:42-78
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:21:79-111
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:21:11-41
+activity#com.softwaredepotonline.iPocketDiary.HelpPassword
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:22:1-151
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:22:70-106
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:22:107-139
+	android:label
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:22:40-69
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:22:11-39
+activity#com.softwaredepotonline.iPocketDiary.ChangePasswordView
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:23:1-127
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:23:46-82
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:23:83-115
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:23:11-45
+activity#com.softwaredepotonline.iPocketDiary.ItemList
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:24:1-117
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:24:36-72
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:24:73-105
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:24:11-35
+activity#com.softwaredepotonline.iPocketDiary.SubItemList
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:25:1-120
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:25:39-75
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:25:76-108
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:25:11-38
+activity#com.softwaredepotonline.iPocketDiary.FolderEditor
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:26:1-121
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:26:40-76
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:26:77-109
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:26:11-39
+activity#com.softwaredepotonline.iPocketDiary.SubFolderEditor
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:27:1-157
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:27:76-112
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:27:113-145
+	android:label
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:27:43-75
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:27:11-42
+activity#com.softwaredepotonline.iPocketDiary.Information
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:28:1-121
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:28:39-75
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:28:76-108
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:28:11-38
+activity#com.softwaredepotonline.iPocketDiary.AddNewItem
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:29:1-119
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:29:38-74
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:29:75-107
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:29:11-37
+activity#com.softwaredepotonline.iPocketDiary.AddCustomItem
+ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:30:1-122
+	android:screenOrientation
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:30:41-77
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:30:78-110
+	android:name
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml:30:11-40
+uses-sdk
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dayanandchauhan\AndroidStudioProjects\iPocketDiary1\app\src\main\AndroidManifest.xml

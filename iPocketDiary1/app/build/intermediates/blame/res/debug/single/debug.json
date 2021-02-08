@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyle.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\buttonstyle.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoping.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\shoping.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_piechart.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\piechart.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotelreservationinformation.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\hotelreservationinformation.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text_dot_c.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\ic_text_dot_c.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_security.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\security.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flicker.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\flicker.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text_dot_c_invert.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\ic_text_dot_c_invert.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\back_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visa.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_right_only.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_right_only.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enable_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\enable_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\minus_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itunes.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\itunes.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_callingcardinformation.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\callingcardinformation.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bank.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\bank.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\send_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert_dialog_icon.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alarm_off_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\alarm_off_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_left_right_collapsed.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_left_right_collapsed.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_up_down.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_up_down.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\raw_category_list.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\raw\\category_list.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_foldertitle.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-mdpi\\foldertitle.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yahoo.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\yahoo.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotelrewardpoints.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\hotelrewardpoints.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_folder_list.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\folder_list.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_list.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_48.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\icon_48.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_magnifying_glass_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\magnifying_glass_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_americalexpress.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\americalexpress.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fun.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\fun.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_folderlist_item.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\folderlist_item.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_internetproviderinformation.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\internetproviderinformation.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_travelling.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\travelling.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_up.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_up.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carinfo.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\carinfo.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ringtone_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\ringtone_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_password.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mycar.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\mycar.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forward_321.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\forward_321.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_password.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\pause_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkmark.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\checkmark.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fast_forward_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\fast_forward_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ebay.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\ebay.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_box.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\text_box.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_others.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map_pin_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\map_pin_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\settings_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_events_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\events_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_help.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_animal.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\animal.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sports.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_72.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\icon_72.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finances.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\finances.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_main.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\info_main.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_set_date_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\set_date_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citibank.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\citibank.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_item_layout.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\add_item_layout.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_subfolderlist_item.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\subfolderlist_item.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobilephone.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\mobilephone.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insurance.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\insurance.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ok.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_airlinerewardpoints.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\airlinerewardpoints.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_left_only.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_left_only.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transport.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\transport.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_options_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\options_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bankaccountdetails.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\bankaccountdetails.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_layout.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\info_layout.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musicone.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\musicone.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaruent.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\restaruent.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_address.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\address.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_computer.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\computer.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_2.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\music_2.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_foldertitle.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-ldpi\\foldertitle.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_set_time_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\set_time_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_subfoldelist_main.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\subfoldelist_main.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enter.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\enter.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_36.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\icon_36.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_folder_list_main.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\folder_list_main.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_welcome.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-ldpi\\welcome.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plan_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\plan_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safe.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\safe.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_health.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\health.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_press.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\spinner_press.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_help_password.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\help_password.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alarm_on_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\alarm_on_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_item_layout.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\custom_item_layout.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textviewbutton.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\textviewbutton.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myspace.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\myspace.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_select.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\spinner_select.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carinsurance.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\carinsurance.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clock_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\clock_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forward_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\forward_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-ldpi\\help.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rewind_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\rewind_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agreements.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\agreements.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pie_chart.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\pie_chart.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_password.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\top_bar.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_welcome.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable-mdpi\\welcome.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_passport.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\passport.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keys.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\keys.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_setpassword.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\setpassword.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flickr.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\flickr.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_normal.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\spinner_normal.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_games_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\games_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_americanexpress.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\americanexpress.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_neither_up_down.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_neither_up_down.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\movie.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_travel.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\travel.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_importantpasswords.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\importantpasswords.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emailaccount.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\emailaccount.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_creditcarddetails.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\creditcarddetails.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personalinformation.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\personalinformation.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drivinglicense.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\drivinglicense.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musictwo.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\musictwo.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pancard.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\pancard.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insurancepolicies.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\insurancepolicies.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_neither.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_neither.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_expand.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_expand.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout_auth_layout.xml.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\layout\\auth_layout.xml"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pcinternet.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\pcinternet.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dropdown_down.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\btn_dropdown_down.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\books.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultimage.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\defaultimage.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\plus_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_disable_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\disable_32.png"
+    },
+    {
+        "merged": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_32.png.flat",
+        "source": "D:\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\src\\main\\res\\drawable\\volume_32.png"
+    }
+]

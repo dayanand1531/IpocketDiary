@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:scrollbars="vertical" 
+                android:background="@drawable/help"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:soundEffectsEnabled="true" 
+                android:scrollbarSize="5dip" android:scrollbarAlwaysDrawVerticalTrack="true">
+<ListView android:id="@+id/lvfoldermain" 
+android:layout_height="0dip"
+android:layout_width="fill_parent"
+        android:layout_weight="1.0">
+
+</ListView>
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:orientation="horizontal" android:padding="5dip">
+
+        <Button
+            android:id="@+id/menu_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/ic_menu_help" 
+            android:soundEffectsEnabled="true" 
+            android:layout_alignParentLeft="true" 
+            android:layout_marginLeft="50dip" android:gravity="center_vertical"/>
+
+        <Button
+            android:id="@+id/btnAddNewFolder"
+            android:background="@android:drawable/ic_menu_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_alignParentRight="true" 
+            android:soundEffectsEnabled="true"
+            android:layout_marginRight="50dip" android:gravity="center_vertical"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+

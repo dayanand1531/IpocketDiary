@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01" 
+xmlns:android="http://schemas.android.com/apk/res/android" 
+android:background="@drawable/help" android:layout_height="fill_parent" 
+android:layout_width="fill_parent">
+
+<RelativeLayout android:id="@+id/RelativeLayout01" 
+android:layout_height="wrap_content" 
+android:layout_width="wrap_content" 
+android:layout_marginTop="20dp"
+android:padding="20dip">
+
+	<Spinner
+		android:id="@+id/spinner1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:drawSelectorOnTop="true"
+		android:prompt="@string/spinner_Select_prompt" />
+
+	<EditText
+		android:id="@+id/CustomItem"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/spinner1"
+		android:layout_marginTop="10dp"
+		android:background="@android:drawable/editbox_background"
+		android:hint="Custom Item"
+		android:singleLine="true"></EditText>
+<Button android:layout_below="@id/CustomItem" 
+		android:layout_marginTop="15dp"
+		android:layout_height="40dip" 
+		android:text="@string/save" 
+		android:id="@+id/saveCustomItem" 
+		android:layout_width="100dip"></Button>
+</RelativeLayout>
+</LinearLayout>

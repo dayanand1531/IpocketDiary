@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Feb 08 12:16:30 IST 2021
+1.base=D\:\\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\\#2 (NTFS)368.10 GB\\AndroidStudioProjects\\iPocketDiary1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=pocketdiary

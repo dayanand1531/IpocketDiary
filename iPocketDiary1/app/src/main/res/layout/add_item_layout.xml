@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01" 
+xmlns:android="http://schemas.android.com/apk/res/android" 
+android:background="@drawable/help" 
+		android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:padding="20dip"
+    	android:layout_height="fill_parent">
+<LinearLayout
+      android:orientation="vertical"
+      android:layout_width="fill_parent"
+      android:layout_marginTop="20dp"
+      android:layout_height="wrap_content"
+      >
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/spinner_Select_prompt" />
+
+    <EditText
+        android:id="@+id/ItemTextNumericDate"
+        android:layout_width="117dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Item"
+        android:singleLine="true"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/ItemMultilineText"
+        android:layout_width="119dp"
+        android:layout_height="150px"
+        android:layout_marginTop="10dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Item"
+        android:textSize="18sp" />
+		 </LinearLayout>
+<LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_height="fill_parent">
+<Button android:text="@string/save" 
+		android:id="@+id/saveItem" 
+		android:layout_width="105dip" 
+		android:layout_height="40dip" />
+<Button android:id="@+id/btnCustomItem" 
+		android:layout_height="30dip" 
+		style="@style/textview_btnstyle"
+		android:layout_marginLeft="5dp"
+        android:background="@drawable/textviewbutton"
+		android:text="Add New Field" 
+		android:layout_width="100dip"/></LinearLayout>
+</LinearLayout>

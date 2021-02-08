@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in View/AddCustomItem.java -->
+    <string-array name="CustomItemType">
+        <item>Numeric</item>
+        <item>Text</item>
+        <item>Text Box</item>
+        <item>Date Format</item>
+    </string-array>
+</resources>
